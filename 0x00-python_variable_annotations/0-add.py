@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Adetunji Subomi.
+"""Adetunji Afolabi
 """
 
 
 def add(a: float, b: float) -> float:
-    """Adds two numbers.
+    """Adds
     """
     return a + b
