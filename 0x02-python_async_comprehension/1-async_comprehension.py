@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Adetunji Olasubomi
+'''Adetunji Afolabi
 '''
 from typing import List
 from importlib import import_module as using
