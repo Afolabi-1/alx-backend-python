@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Adetunji Olasubomi
+'''Adetunji Afolabi
 '''
 from typing import Any, Mapping, Union, TypeVar
 
